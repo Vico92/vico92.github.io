@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["QJCGJSTF2U.com.victoraudoux.glassesgate"],
+        "components": [
+          { "/": "/second" },
+          { "/": "/second/*" }
+        ]
+      }
+    ]
+  }
+}
